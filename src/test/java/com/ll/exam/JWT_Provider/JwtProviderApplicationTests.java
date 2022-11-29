@@ -1,6 +1,6 @@
 package com.ll.exam.JWT_Provider;
 
-import com.ll.exam.JWT_Provider.app.JwtProvider;
+import com.ll.exam.JWT_Provider.app.jwt.JwtProvider;
 import io.jsonwebtoken.security.Keys;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
